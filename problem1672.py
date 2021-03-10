@@ -1,5 +1,4 @@
-class Solution:
-    def maximumWealth(self, accounts: List[List[int]]) -> int:
+def maximumWealth(self, accounts: List[List[int]]) -> int:
         highest = 0
         for customer in accounts:
             sum = 0
