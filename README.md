@@ -22,6 +22,9 @@ https://leetcode.com/problems/robot-return-to-origin/
 ## 728. Self Dividing Numbers
 https://leetcode.com/problems/self-dividing-numbers/
 
+## 961. N-Repeated Element in Size 2N Array
+https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+
 ## 1108. Defanging an IP Address
 https://leetcode.com/problems/defanging-an-ip-address/
 
