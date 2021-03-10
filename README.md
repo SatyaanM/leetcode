@@ -19,6 +19,9 @@ https://leetcode.com/problems/perfect-number/
 ## 657. Robot Return to Origin
 https://leetcode.com/problems/robot-return-to-origin/
 
+## 728. Self Dividing Numbers
+https://leetcode.com/problems/self-dividing-numbers/
+
 ## 1108. Defanging an IP Address
 https://leetcode.com/problems/defanging-an-ip-address/
 
