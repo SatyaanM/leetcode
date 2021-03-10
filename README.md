@@ -10,6 +10,9 @@ https://leetcode.com/problems/reverse-integer/
 ## 13. Roman to Integer
 https://leetcode.com/problems/roman-to-integer/
 
+## 14. Longest Common Prefix
+https://leetcode.com/problems/longest-common-prefix/
+
 ## 136. Single Number
 https://leetcode.com/problems/single-number/
 
